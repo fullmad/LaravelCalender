@@ -15,7 +15,7 @@ Or add the following to your composer.json's require section and `composer updat
 
 ```json
 "require": {
-	"maddhatter/laravel-fullcalendar": "~1.0"
+	"calender/laravel-fullcalendar": "~1.0"
 }
 ```
 
